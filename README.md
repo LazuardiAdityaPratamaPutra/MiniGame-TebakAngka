@@ -3,7 +3,7 @@
 Game sederhana menebak angka antara 1 sampai 10 menggunakan JavaScript.
 
 ## Cara Menjalankan
-1. Clone repo ini
+1. Clone repo ini.
 2. Buka file `tebak-angka.html` di browser
 3. Ikuti instruksi pop up
 
