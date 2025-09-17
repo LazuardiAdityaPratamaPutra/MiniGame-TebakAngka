@@ -1,4 +1,4 @@
-# Game Tebak Angka
+# Game Tebak Angka.
 
 Game sederhana menebak angka antara 1 sampai 10 menggunakan JavaScript.
 
