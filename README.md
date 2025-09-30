@@ -11,5 +11,5 @@ Game sederhana menebak angka antara 1 sampai 10 menggunakan JavaScript.
 - Pemain punya **3 kesempatan**
 - Jika tebakan benar → menang 🎉
 - Jika salah → akan diberi petunjuk (terlalu tinggi / terlalu rendah)
-- Jika kesempatan habis → game over.
+- Jika kesempatan habis → game over
 
